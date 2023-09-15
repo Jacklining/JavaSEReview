@@ -6,6 +6,10 @@ public class gitchange {
 
         System.out.println("chenge 2");
 
+        System.out.println("changes3");
+
         System.out.println("change3");
+
+        System.out.println("master changes");
     }
 }
