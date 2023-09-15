@@ -11,5 +11,6 @@ public class gitchange {
         System.out.println("change3");
 
         System.out.println("master changes  too");
+        System.out.println("hotfix changes");
     }
 }
