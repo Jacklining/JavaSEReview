@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+<!--    注意：xml文件一定要有个根元素，名称无所谓，但是要有，例如html中的<html></html>-->
+    <!-- 其他XML元素和内容 -->
+
+<![CDATA[正常符号添加]]>
+
+</root>
