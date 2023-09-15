@@ -10,6 +10,6 @@ public class gitchange {
 
         System.out.println("change3");
 
-        System.out.println("master changes");
+        System.out.println("master changes  too");
     }
 }
